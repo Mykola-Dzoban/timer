@@ -1,0 +1,16 @@
+.allTime{
+  font-size: 100px;
+}
+
+.manageTimerButton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.manageTimerButton button{
+  background: #B7A0F7;
+  border: 1px solid #47347A;
+  font-size: 20px;
+}
